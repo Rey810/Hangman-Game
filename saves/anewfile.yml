@@ -1,0 +1,28 @@
+---
+:guesses_remaining: 4
+:total_guesses: ertgdsa
+:game_over: 
+:secret_word: "delphinium\r"
+:secret_word_placeholder:
+- d
+- e
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+:secret_word_array:
+- d
+- e
+- l
+- p
+- h
+- i
+- n
+- i
+- u
+- m
+:colour_coded_total_guesses: "\e[32me\e[0m\e[31mr\e[0m\e[31mt\e[0m\e[31mg\e[0m\e[32md\e[0m\e[31ms\e[0m\e[31ma\e[0m"

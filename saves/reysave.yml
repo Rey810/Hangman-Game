@@ -1,0 +1,28 @@
+---
+:guesses_remaining: 7
+:total_guesses: ersa
+:game_over: 
+:secret_word: "menacingly\r"
+:secret_word_placeholder:
+- _
+- e
+- _
+- a
+- _
+- _
+- _
+- _
+- _
+- _
+:secret_word_array:
+- m
+- e
+- n
+- a
+- c
+- i
+- n
+- g
+- l
+- y
+:colour_coded_total_guesses: "\e[32me\e[0m\e[31mr\e[0m\e[31ms\e[0m\e[32ma\e[0m"

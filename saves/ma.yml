@@ -1,0 +1,26 @@
+---
+:guesses_remaining: 1
+:total_guesses: fgwryhsqsave--
+:game_over: 
+:secret_word: "womanlike\r"
+:secret_word_placeholder:
+- w
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+:secret_word_array:
+- w
+- o
+- m
+- a
+- n
+- l
+- i
+- k
+- e
+:colour_coded_total_guesses: "\e[31mf\e[0m\e[31mg\e[0m\e[32mw\e[0m\e[31mr\e[0m\e[31my\e[0m\e[31mh\e[0m\e[31ms\e[0m\e[31mq\e[0m\e[31ms\e[0m"
